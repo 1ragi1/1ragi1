@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ...
 - I'm styuding language. (python java C)
 - I'm interested to kubernetes and docker.
-
+- I want to be a backendenginear or khaosuenginear ,cloudenginear
